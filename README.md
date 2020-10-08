@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Gitter](https://badges.gitter.im/Multi-label/community.svg)](https://gitter.im/Multi-label/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 <p align="center">
-  <img width="650" src="knowledge-graph.jpg">
+  <img width="750" src="knowledge-graph.jpg">
 </p>
 
 
